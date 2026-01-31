@@ -1,0 +1,1 @@
+This repository contains FRC 1721 Tidal Force's "TidalForcer" KrakenX60 controller code!
